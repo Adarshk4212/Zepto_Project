@@ -35,7 +35,7 @@ quantity
 
 📌 Tools & Technologies
 
-SQL (PostgreSQL syntax)
+MySQL
 
 Excel / CSV for data storage
 
